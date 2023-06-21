@@ -6,7 +6,7 @@ class ClassComponent extends Component {
 
     // Initialize the component state object
     this.state = {
-      count: 0
+      count: 10
     };
   }
 
